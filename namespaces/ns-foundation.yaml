@@ -11,19 +11,3 @@ metadata:
   labels:
     name: team-b
   name: team-b
----
-apiVersion: v1
-kind: Namespace
-metadata:
-  labels:
-    name: team-c
-  name: team-c
----
-
-apiVersion: v1
-kind: Namespace
-metadata:
-  labels:
-    name: team-d
-  name: team-d
-
