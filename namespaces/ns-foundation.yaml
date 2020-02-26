@@ -11,3 +11,10 @@ metadata:
   labels:
     name: team-b
   name: team-b
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  labels:
+    name: team-e
+  name: team-e
