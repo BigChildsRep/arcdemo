@@ -39,3 +39,10 @@ metadata:
   labels:
     name: securitytools
   name: securitytools
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  labels:
+    name: policytools
+  name: policytools
