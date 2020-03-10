@@ -18,31 +18,3 @@ metadata:
   labels:
     name: team-c
   name: team-c
----
-apiVersion: v1
-kind: Namespace
-metadata:
-  labels:
-    name: team-d
-  name: team-d
----
-apiVersion: v1
-kind: Namespace
-metadata:
-  labels:
-    name: team-e
-  name: team-e
----
-apiVersion: v1
-kind: Namespace
-metadata:
-  labels:
-    name: securitytools
-  name: securitytools
----
-apiVersion: v1
-kind: Namespace
-metadata:
-  labels:
-    name: policytools
-  name: policytools
